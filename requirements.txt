@@ -4,3 +4,5 @@ langchain
 langchain-openai
 python-dotenv
 streamlit
+langchain-community
+ddgs
